@@ -61,6 +61,6 @@ This Django project named "LittleLemon" is a backend system for managing a food 
 
 - Ariel Pinhas - Sole Developer/Creator
 - [GitHub](https://github.com/ariel-pi)
-- [Linkdin](www.linkedin.com/in/ariel-pinhas)
+- [Linkdin](http://www.linkedin.com/in/ariel-pinhas)
 
 
