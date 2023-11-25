@@ -12,7 +12,7 @@ This Django project named "LittleLemon" is a backend system for managing a food 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/LittleLemon.git
+    git clone https://github.com/ariel-pi/LittleLemon.git
     cd LittleLemon
     ```
 
