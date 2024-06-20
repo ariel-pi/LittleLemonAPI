@@ -1,6 +1,6 @@
 # Try it yourself! #
 ## what is here? ##  
-This file contains the tests that must be done for the project.  
+Examples of using the endpointsץ
 ## How to use the file? ##  
 - For each test it is written what is the endpoint that allows the test to be performed, what method to use and what payload is required to be attached if required.  
 - For those who use Insomnia, the payload can be attached as a URL Encoded Form.  
