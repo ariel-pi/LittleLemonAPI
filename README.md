@@ -2,7 +2,7 @@
 
 This Django project named "LittleLemon" is a backend system for managing a food ordering service. It includes features such as managing menu items, user carts, orders, and user groups like managers, delivery crew, and customers.</b>
 
-#### In the TryItYourself.md file, you can find examples of using the endpoints. 
+#### In the [TryItYourself.md](https://github.com/ariel-pi/LittleLemonAPI/blob/main/TryItYourself.md) file, you can find examples of using the endpoints. 
 
 ### Requirements
 
