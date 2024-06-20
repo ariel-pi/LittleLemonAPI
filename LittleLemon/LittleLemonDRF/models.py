@@ -35,7 +35,6 @@ class Order(models.Model):
     date = models.DateField(db_index=True)
 
 class OrderItem(models.Model):
-    #TODO pay attention! in the video there is a typo here in the next line
     order = models.ForeignKey(Order,on_delete=models.CASCADE)
     menuitem = models.ForeignKey(MenuItem, on_delete=models.CASCADE)
     quantity = models.SmallIntegerField()
