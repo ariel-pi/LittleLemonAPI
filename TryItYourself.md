@@ -32,7 +32,7 @@ Examples of using the endpointsץ
          "title": "Vegan Pasta",
          "price": "7.00",
          "featured": 0,
-         "category": 1
+         "category_id": 1
      }
 
 4. **The admin can add categories**  
